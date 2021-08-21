@@ -85,16 +85,14 @@ right: 300px;
   position:absolute;
   left: 300px;
 }
-.footer-link{
-  margin: 40px
-}
 .intro{
   width: 30%;
   margin: auto;
+  text-align: left;
 }
 .contact-msg{
   width: 40%;
-  margin: 40px auto 60px;
+  margin-top: 50px;
 }
 .copy_right{
   color: #EAF6F6;
